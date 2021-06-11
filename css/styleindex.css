@@ -1,0 +1,51 @@
+/* Estilos globales*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+header, footer {
+    background-color: rgba(106, 106, 245, 0.527);
+    padding: 10px;
+    color: white ;
+}
+nav {
+    background-color:rgb(255, 255, 126);
+    padding: 10px;
+    border: yellow 6px groove;
+}
+main {
+    background: rgb(250, 245, 245);
+    margin: auto; 
+    padding: 20px;
+    text-align: justify;
+}
+ul {
+    list-style-type: none;
+    line-height: 200%;
+}
+/* Fin de Estilos globales*/
+/*Contenedor principal*/
+#watt {
+    width: 300px;
+    border-radius: 20px;
+}
+h1 {
+    display: inline-block;
+}
+/*Fin Contenedor Principal*/
+/*Estilos de listas*/
+.aprendido {
+    padding: 10px;
+    background-color: lawngreen;
+    display: inline-block;
+    width: 48%;
+}
+.pendiente {
+    padding: 10px;
+    background-color: rgb(0, 67, 252);
+    display: inline-block;
+    width: 48%;
+}
+/*Fin Estilos de listas*/
