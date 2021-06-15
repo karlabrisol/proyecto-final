@@ -42,7 +42,7 @@ function mostrarCategoria(type) {
             hobbiesElement.style.display = "block";
 
             paseosBtnElement.style.backgroundColor = "rgb(247, 166, 129)";
-            mascotasbtnElement.style.backgroundColor = "rgb(247, 166, 129)";
+            mascotasBtnElement.style.backgroundColor = "rgb(247, 166, 129)";
             hobbiesBtnElement.style.backgroundColor = "rgba(106, 106, 245, 0.527)";
             break;
     }
