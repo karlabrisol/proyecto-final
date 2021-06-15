@@ -10,6 +10,9 @@
     padding: 5px 10px;
     font-weight: bold;
 }
+#hobbies-btn:hover, #mascotas-btn:hover, #paseos-btn:hover {
+    background-color: rgba(106, 106, 245, 0.527) !important;
+}
 #gallery {
     margin: 10px 0;
 }
@@ -30,6 +33,6 @@
     transform: scale(1.1);
 }
 #hobbies-btn {
-    background-color: rgba(106, 106, 245, 0.527);
+    background-color: rgba(106, 106, 245, 0.527)
 }
 /*Fin Contenedor Principal*/
